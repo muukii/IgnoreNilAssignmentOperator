@@ -39,7 +39,7 @@ Swift 3.0
 
 **For iOS 8+ projects with Carthage:**
 
-github "devxoul/Then" ~> 2.1
+github "muukii/IgnoreNilAssignmentOperator"
 
 ## Author
 
